@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "The state should control education.",
+        "question": "The state should dictate education.",
         "effect": {
             "econ": 10,
             "dipl": 0,
