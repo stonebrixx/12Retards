@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Corporations should be seized by the state.",
+        "question": "Corporations should not be controlled by the state.",
         "effect": {
             "econ": -10,
             "dipl": 0,
