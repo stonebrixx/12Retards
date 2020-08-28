@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "Borders should be opened.",
+        "question": "Incest should be legal.",
         "effect": {
             "econ": 0,
             "dipl": 10,
