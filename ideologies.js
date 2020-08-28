@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "EvilM12 (SCP Rep)",
+        "name": "EvilM12 (SCP Representative)",
         "stats": {
             "econ": 55,
             "dipl": 80,
