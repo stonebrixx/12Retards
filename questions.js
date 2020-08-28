@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "The government should crack down harder on the black market.",
+        "question": "The state should crack down harder on the black market.",
         "effect": {
             "econ": 10,
             "dipl": 0,
