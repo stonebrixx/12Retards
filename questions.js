@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Education and Healthcare should be nationalized.",
+        "question": "The Nationalization of Education and Healthcare was a good thing.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,61 +9,25 @@ questions = [
         }
     },
     {
-        "question": "The state should crack down harder on the black market.",
+        "question": "The state should have cracked down harder on the black market.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The freer the markets, the freer the people.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Farmland should be socialized rather than nationalized.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Tariffs should be heavily increased.",
-        "effect": {
-            "econ": 5,
             "dipl": 0,
             "govt": -10,
             "scty": 0
         }
     },
     {
-        "question": "Healthcare should be free and universal.",
+        "question": "Jaq and Plasma regulated the market too harshly.",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 0
         }
     },
     {
-        "question": "A flat tax is ideal.",
+        "question": "It was a better to maintain a balanced budget than to ensure welfare for all citizens.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +36,25 @@ questions = [
         }
     },
     {
-        "question": "Industry and resources should be nationalized.",
+        "question": "Farmland should have been socialized rather than nationalized.",
+        "effect": {
+            "econ": 5,
+            "dipl": 10,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "It was ideal that tariffs were heavily increased.",
+        "effect": {
+            "econ": 5,
+            "dipl": -10,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Healthcare should have been free and universal.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +63,25 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "The flat tax was a good idea.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Industry and resources should have been more nationalized.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The estate tax shouldn't have been raised.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Universal Basic Income is a good idea.",
+        "question": "Universal Basic Income was a good idea.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,7 +99,16 @@ questions = [
         }
     },
     {
-        "question": "Mass privitization should be used to combat extreme debt.",
+        "question": "Mass privitization should have been used to combat extreme debt.",
+        "effect": {
+            "econ": -40,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Corporations should not have been controlled by the state.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,25 +117,16 @@ questions = [
         }
     },
     {
-        "question": "Corporations should not be controlled by the state.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The state should control education.",
+        "question": "It was ideal that the state controlled education.",
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": 0,
+            "govt": -5,
             "scty": 5
         }
     },
     {
-        "question": "Banks should be nationalized.",
+        "question": "It was ideal that banks were nationalized.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations is a threat.",
+        "question": "The United Nations was a threat.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "Military action by our nation was often necessary to protect it.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "I supported regional unions, such as the European Union.",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "It was ideal to maintain our national sovereignty.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,16 @@ questions = [
         }
     },
     {
-        "question": "Incest should be legal.",
+        "question": "Incest should have been legal.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 5
+        }
+    },
+    {
+        "question": "It was more important to retain peaceful relations than to further our strength.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,16 +189,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Nuclear arsenal should be expanded.",
+        "question": "Nuclear arsenal should have been even more expanded.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -198,34 +198,34 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "Military spending was a waste of money.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 10,
             "scty": 0
         }
     },
     {
-        "question": "There should be a secret state police force to keep national stability.",
-        "effect": {
-            "econ": -5,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "America first.",
+        "question": "It was justifiable that there was a secret state police force to keep national stability.",
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
     {
-        "question": "International trade is a good thing.",
+        "question": "Slavery should have been kept for illegals.",
+        "effect": {
+            "econ": 0,
+            "dipl": -15,
+            "govt": 15,
+            "scty": 0
+        }
+    },
+    {
+        "question": "International trade was a good thing near the end.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "The USA should be accountable to the international community.",
+        "question": "The USA should have been held more accountable to the international community.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -243,16 +243,16 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "It was good that we squashed antifa.",
         "effect": {
             "econ": 0,
             "dipl": 5,
-            "govt": -5,
+            "govt": -10,
             "scty": 0
         }
     },
     {
-        "question": "The USA should expand its territory and influence.",
+        "question": "The USA should have expanded its territory and influence.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "All illegals should be deported.",
+        "question": "The military should have been stationed at the border.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "It was very important to maintain law and order.",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "A benevolent dictatorship is ideal.",
+        "question": "A benevolent dictatorship was ideal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Eugenics aren't benificial.",
+        "question": "Eugenics weren't benificial.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "The sacrifice of some civil liberties was necessary to protect the citizens from acts of terrorism.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance should be heavily expanded.",
+        "question": "Government surveillance should have been heavily expanded.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,16 +315,16 @@ questions = [
         }
     },
     {
-        "question": "States should be allowed to secede.",
+        "question": "States should have been allowed to secede.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 0
+            "scty": 10
         }
     },
     {
-        "question": "Dissidents are dangerous to a stable nation.",
+        "question": "Dissidents were dangerous to a stable nation.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -333,25 +333,25 @@ questions = [
         }
     },
     {
-        "question": "Democracy is vital.",
+        "question": "Universal elections should have been implemented.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 5
+            "govt": 20,
+            "scty": 15
         }
     },
     {
-        "question": "Elections should be closed and limited.",
+        "question": "It was ideal that citizens had no choice over their leader.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": -5,
             "scty": 0
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "It was important that the government followed the majority opinion, even if it is wrong.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -369,16 +369,16 @@ questions = [
         }
     },
     {
-        "question": "Liberty is more important than security.",
+        "question": "Liberty was more important than security.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 0
+            "scty": 10
         }
     },
     {
-        "question": "The government should subsidize alternate energy.",
+        "question": "It was ideal that the state subsidized alternate energy.",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -387,16 +387,16 @@ questions = [
         }
     },
     {
-        "question": "Mass automation is beneficial.",
+        "question": "Mass automation would have been beneficial.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 20
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "The state shoud have mandated a religion.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -405,16 +405,16 @@ questions = [
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "Heathens shouldve been prosecuted.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Religion should have played a stronger role in government.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,25 +423,25 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Churches should have been taxed the same way other institutions are taxed.",
         "effect": {
             "econ": 5,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
-        "question": "Nobody should be deported.",
+        "question": "Nobody should have been deported.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 15
         }
     },
     {
-        "question": "Transhumanism should be a societal goal.",
+        "question": "Transhumanism should have been a societal goal.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -450,7 +450,16 @@ questions = [
         }
     },
     {
-        "question": "Cultists should be harshly punished.",
+        "question": "Cultists should have been more harshly punished.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Science was too much of a priority.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -459,25 +468,16 @@ questions = [
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "We shouldve been more careful with our policies.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "econ": -5,
+            "dipl": 5,
+            "govt": 5,
+            "scty": 5
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Progress is more important than tradition.",
+        "question": "Progress was more important than tradition.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -486,25 +486,25 @@ questions = [
         }
     },
     {
-        "question": "Weed should be legalized or decriminalized.",
+        "question": "It was a good thing that weed was legalized or decriminalized.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 2
+            "scty": 5
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "Same-sex marriage should have been made illegal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
-            "scty": 10
+            "govt": -10,
+            "scty": -20
         }
     },
     {
-        "question": "No cultures are superior to others.",
+        "question": "We shouldve been more accepting to other nations and immigrants.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "America is plagued with degeneracy that must be cleansed.",
+        "question": "America was plagued with degeneracy that was rightfully be cleansed.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -522,25 +522,25 @@ questions = [
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "We shouldve just killed all the immigrant slaves.",
         "effect": {
             "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
-        }
-    },
-    {
-        "question": "A limited child policy would be beneficial to society.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
+            "dipl": -10,
             "govt": -10,
             "scty": -10
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "A limited child policy would have been a good idea.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Gun ownership should have been prohibited for those without a valid reason.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "College tuition should be free.",
+        "question": "It was a good thing that college tuition was free.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -558,12 +558,12 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Prostitution should have been made legal.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "govt": 10,
+            "scty": 10
         }
     },
     {
@@ -576,7 +576,7 @@ questions = [
         }
     },
     {
-        "question": "To chase progress at all costs is dangerous.",
+        "question": "We accelerated scientific progress way too fast.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -585,7 +585,7 @@ questions = [
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "Genetic modification was a force for good, even on humans.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,16 +594,16 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "We should have opened our borders to immigration.",
         "effect": {
             "econ": 0,
             "dipl": 10,
             "govt": 10,
-            "scty": 0
+            "scty": 5
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "We should have been as concerned about foreigners as they are about their own citizens.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -621,7 +621,7 @@ questions = [
         }
     },
     {
-        "question": "We should just nuke our enemies and get it over with.",
+        "question": "We should have just nuked our enemies and got it over with.",
         "effect": {
             "econ": -10,
             "dipl": -10,
