@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Sonnenkreuz (Treasurer)",
+        "name": "Sonnenkreuz (Treasury)",
         "stats": {
             "econ": 50,
             "dipl": 0,
