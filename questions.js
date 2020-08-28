@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "A limited child policy would be detrimental to society.",
+        "question": "A limited child policy would be beneficial to society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
