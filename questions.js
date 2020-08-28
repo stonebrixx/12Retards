@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Eugenics are benificial.",
+        "question": "Eugenics aren't benificial.",
         "effect": {
             "econ": 0,
             "dipl": 0,
